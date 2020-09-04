@@ -10,6 +10,6 @@
   "author": "Edson Bruno",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^2.2.33"
+    "mongodb": "^3.1.13"
   }
 }
